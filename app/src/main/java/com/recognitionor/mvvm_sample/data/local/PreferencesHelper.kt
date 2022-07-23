@@ -1,4 +1,4 @@
-package com.adiscope.kkpoint_android.data.local
+package com.recognitionor.mvvm_sample.data.local
 
 import android.app.Activity
 import android.content.Context
